@@ -370,7 +370,7 @@ function App() {
                 color: "var(--accent-text)",
               }}
             >
-              {data.totalSupply-3} / {CONFIG.MAX_SUPPLY}
+              {data.totalSupply-5} / {CONFIG.MAX_SUPPLY}
             </s.TextTitle>
 
             <span
