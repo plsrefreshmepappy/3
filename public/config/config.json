@@ -8,7 +8,7 @@
   },
   "NFT_NAME": "Bitcoin Ordinals Bridge",
   "SYMBOL": "ORDINALS",
-  "MAX_SUPPLY": 1999,
+  "MAX_SUPPLY": 2222,
   "WEI_COST": 3300000000000000,
   "DISPLAY_COST": 0.00330000,
   "GAS_LIMIT": 140000,
